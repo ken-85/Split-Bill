@@ -1,6 +1,6 @@
 Eat and Split
 
-visit: https://badal-eat-n-split.netlify.app/
+visit: https://split-bill-five.vercel.app/
 
 Welcome to Eat and Split, a web application built using React.js that simplifies the process of splitting bills among friends after dining out. With Eat and Split,
 you can easily manage your group expenses, add new friends, and ensure fair distribution of costs.
