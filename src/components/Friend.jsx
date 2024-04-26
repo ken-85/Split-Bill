@@ -18,7 +18,7 @@ function Friend({ friend, onSelection, SectedFriend }) {
           {friend.name} owe you {Math.abs(friend.balance)}€
         </p>
       )}
-      {friend.balance === 0 && <p>You owe {friend.name} are even</p>}
+      {friend.balance === 0 && <p>You and {friend.name} are even</p>}
       <Button className="button" onClick={() => onSelection(friend)}>
         {isSelect?"Close":"Select"}
       </Button>
